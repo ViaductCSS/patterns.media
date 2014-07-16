@@ -1,0 +1,23 @@
+{
+  "name": "viaduct.patterns.media",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ViaductCSS/patterns.media",
+  "authors": [
+    "Ben Cooper <ben.cooper@thap.co.uk>"
+  ],
+  "description": "Patterns Media Partial for the Viaduct CSS Framework",
+  "keywords": [
+    "viaduct-css-framework",
+    "css-framework",
+    "sass",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
